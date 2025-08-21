@@ -274,7 +274,7 @@ export default function Videos() {
   const mathVideos = [
     // Numberblocks - The #1 Recommendation
     {
-      id: 'v=8jOzLOACgxI',
+      id: '8jOzLOACgxI',
       title: 'Numberblocks - Counting 1-5',
       description: 'Meet the Numberblocks! Learn to count from 1 to 5 with fun characters.',
       channel: 'numberblocks',
@@ -287,7 +287,7 @@ export default function Videos() {
       learningPath: 'Step 1: Number Recognition'
     },
     {
-      id: 'v=2X-HAFPHBzg',
+      id: '2X-HAFPHBzg',
       title: 'Numberblocks - Adding Together',
       description: 'See how Numberblocks combine to make bigger numbers!',
       channel: 'numberblocks',
@@ -300,7 +300,7 @@ export default function Videos() {
       learningPath: 'Step 2: Simple Addition'
     },
     {
-      id: 'v=7DjsD7S5EcM',
+      id: '7DjsD7S5EcM',
       title: 'Numberblocks - Shapes & Patterns',
       description: 'Learn shapes and patterns with the Numberblocks!',
       channel: 'numberblocks',
@@ -315,7 +315,7 @@ export default function Videos() {
 
     // Sesame Street
     {
-      id: 'v=oLU06V1qNWg',
+      id: 'oLU06V1qNWg',
       title: 'Sesame Street - Count with Elmo',
       description: 'Count to 10 with Elmo and friends!',
       channel: 'sesame',
@@ -328,7 +328,7 @@ export default function Videos() {
       learningPath: 'Step 1: Number Recognition'
     },
     {
-      id: 'v=dJZXqhQJUyM',
+      id: 'dJZXqhQJUyM',
       title: 'Sesame Street - Shapes Song',
       description: 'Learn about circles, squares, and triangles!',
       channel: 'sesame',
@@ -343,7 +343,7 @@ export default function Videos() {
 
     // Pinkfong!
     {
-      id: 'v=8jOzLOACgxI',
+      id: '8jOzLOACgxI',
       title: 'Pinkfong! - Counting to 20',
       description: 'High-energy counting song to 20!',
       channel: 'pinkfong',
@@ -356,7 +356,7 @@ export default function Videos() {
       learningPath: 'Step 4: Advanced Counting'
     },
     {
-      id: 'v=2X-HAFPHBzg',
+      id: '2X-HAFPHBzg',
       title: 'Pinkfong! - Math Songs Compilation',
       description: 'Fun math songs about numbers and shapes!',
       channel: 'pinkfong',
@@ -371,7 +371,7 @@ export default function Videos() {
 
     // Super Simple Songs
     {
-      id: 'v=7DjsD7S5EcM',
+      id: '7DjsD7S5EcM',
       title: 'Super Simple Songs - 10 Little Dinosaurs',
       description: 'Gentle counting song with dinosaurs!',
       channel: 'supersimple',
@@ -384,7 +384,7 @@ export default function Videos() {
       learningPath: 'Step 1: Number Recognition'
     },
     {
-      id: 'v=oLU06V1qNWg',
+      id: 'oLU06V1qNWg',
       title: 'Super Simple Songs - Shapes Song',
       description: 'Calm and clear shapes learning song!',
       channel: 'supersimple',
@@ -399,7 +399,7 @@ export default function Videos() {
 
     // Jack Hartmann
     {
-      id: 'v=dJZXqhQJUyM',
+      id: 'dJZXqhQJUyM',
       title: 'Jack Hartmann - Count and Workout',
       description: 'Count and move with Jack Hartmann!',
       channel: 'jackhartmann',
@@ -412,7 +412,7 @@ export default function Videos() {
       learningPath: 'Step 4: Advanced Counting'
     },
     {
-      id: 'v=8jOzLOACgxI',
+      id: '8jOzLOACgxI',
       title: 'Jack Hartmann - Big and Small',
       description: 'Learn about size comparison with movement!',
       channel: 'jackhartmann',
